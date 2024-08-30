@@ -18,8 +18,8 @@
   <a href="https://github.com/Juli4Souzas">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=juli4souzas&show_icons=true&theme=dracula">-->
   <!--<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli4souzas&layout=compact&langs_count=16&theme=dracula"/>-->
-  <!--<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli4souzas&show_icons=true&theme=dracula"/>-->
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli4souzas&show_icons=true&theme=dracula&token=token01"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli4souzas&show_icons=true&theme=dracula"/>
+  <!--<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli4souzas&show_icons=true&theme=dracula&token=token01"/>-->
 
 
 
