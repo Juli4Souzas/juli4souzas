@@ -16,7 +16,7 @@
 
 <div>
   <a href="https://github.com/Juli4Souzas">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=juli4souzas&show_icons=true&theme=dracula">
+  <!--<img height="180em"src="https://github-readme-stats.vercel.app/api?username=juli4souzas&show_icons=true&theme=dracula">-->
     <!--<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli4souzas&layout=compact&langs_count=16&theme=dracula"/>-->
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli4souzas&show_icons=true&theme=dracula"/>
 </div>
