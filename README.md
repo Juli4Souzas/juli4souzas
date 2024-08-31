@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juli4souzas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=juli4souzas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juli4souzas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1279218099119325218/1279486851937337509/gifjulia.gif?ex=66d49e7d&is=66d34cfd&hm=da3fdf8e303670a298b171588b9c2001249d1c640b820c275391a1a56f1848e9&"  />
+  <img  height="150" src="https://cdn.discordapp.com/attachments/1279218099119325218/1279486851937337509/gifjulia.gif?ex=66d49e7d&is=66d34cfd&hm=da3fdf8e303670a298b171588b9c2001249d1c640b820c275391a1a56f1848e9&"  />
 </div>
 
 ###
