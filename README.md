@@ -10,7 +10,7 @@
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=juli4souzas&rank_icon=github&theme=dracula&hide_border=false" height="150" height="150" alt="stats graph">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juli4souzas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juli4souzas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
 <!-- gif -->
   <img align="right" height="150" src="https://media.discordapp.net/attachments/1279218099119325218/1403084142178209862/juliaaa.gif?ex=6896436f&is=6894f1ef&hm=c31015c40c13fd81ac1912b4883d5a38bb32c8fa9faef934c3633edd7fb1f98e&=&width=823&height=823"  />
