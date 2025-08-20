@@ -12,7 +12,6 @@
 ---
 
 <!-- Stats -->
-<h3 align="center">📊 Minhas Estatísticas</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juli4souzas&rank_icon=github&theme=radical&hide_border=false" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juli4souzas&layout=compact&theme=radical&hide_border=false&langs_count=6" height="150"/>
