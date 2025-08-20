@@ -1,15 +1,12 @@
-<!-- Banner / Cabeçalho 
+<!-- Banner / Cabeçalho -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Olá!%20Eu%20sou%20a%20Julia%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
-</div>-->
-<h2 align="left">Olá! 👋 Eu sou a Julia Santos</h2>
-
-- 🌱 Estudante de ADS
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Olá!%20Eu%20sou%20a%20Julia%20Santos%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+</div>
 
 <!-- Bio -->
 <p align="center">
   🌱 Estudante de tecnologia | 💻 Explorando programação e desenvolvimento web <br>
-  🚀 Apaixonada por aprender e compartilhar conhecimento
+  🚀 Aprender. Criar. Compartilhar.
 </p>
 
 ---
