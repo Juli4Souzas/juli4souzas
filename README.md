@@ -5,7 +5,7 @@
 
 <!-- Bio -->
 <p align="center">
-  🌱 Estudante de tecnologia | 💻 Explorando programação e desenvolvimento web <br>
+  🌱 Estudante de tecnologia | 💻 Explorando programação e desenvolvimento de softwares <br>
   🚀 Aprender. Criar. Compartilhar.
 </p>
 
