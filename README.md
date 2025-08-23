@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=juli4souzas&rank_icon=github&theme=radical&hide_border=false" height="150"><img width="20" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juli4souzas&layout=compact&theme=radical&hide_border=false&langs_count=6" height="150"/>
   <!--<img align="right" height="150" src="https://media.discordapp.net/attachments/1279218099119325218/1403084142178209862/juliaaa.gif?ex=6896436f&is=6894f1ef&hm=c31015c40c13fd81ac1912b4883d5a38bb32c8fa9faef934c3633edd7fb1f98e&=&width=823&height=823"  />-->
-  <img align="right" src="assets/juliagif2.gif" alt="Gif da Julia" height="150"/>
+  <img align="right" src="assets/juliagif3.gif" alt="Gif da Julia" height="150"/>
 </div>
 
 ---
