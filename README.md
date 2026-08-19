@@ -12,19 +12,19 @@
 ---
 
 <!-- Stats -->
-<div align="center"">
-  <img src="https://github-readme-stats.vercel.app/api?username=juli4souzas&rank_icon=github&theme=radical&hide_border=false" height="150"><img width="20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juli4souzas&layout=compact&theme=radical&hide_border=false&langs_count=6" height="150"/>
-  <!--<img align="right" height="150" src="https://media.discordapp.net/attachments/1279218099119325218/1403084142178209862/juliaaa.gif?ex=6896436f&is=6894f1ef&hm=c31015c40c13fd81ac1912b4883d5a38bb32c8fa9faef934c3633edd7fb1f98e&=&width=823&height=823"  />-->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juli4souzas&theme=radical" height="150"/>
+  <img width="20"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juli4souzas&theme=radical" height="150"/>
   <img align="right" src="assets/juliagif2.gif" alt="Gif da Julia" height="150"/>
 </div>
 
 ---
 
 <div align="center">
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php" />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php" />
   <img width="12" />-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="c" />
   <img width="12" />
@@ -34,6 +34,8 @@
   <img width="12" />
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql"/>
 <img width="12" />
   <a href="https://instagram.com/juli44xs" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
